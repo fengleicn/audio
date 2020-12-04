@@ -16,7 +16,7 @@
               </div>
             </template>
             <div class="text item">
-              {{ chinese }}
+              <span style="color: #3380d7">{{ chinese }}</span>
             </div>
           </el-card>
         </el-main>
