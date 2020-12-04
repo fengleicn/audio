@@ -20,11 +20,6 @@
             </div>
           </el-card>
         </el-main>
-        <el-aside>
-          <el-card style="margin: 10px; ">
-            <span style="color: #3380d7">{{ time }}</span>
-          </el-card>
-        </el-aside>
       </el-container>
     </el-container>
   </div>
