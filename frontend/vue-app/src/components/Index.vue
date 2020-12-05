@@ -56,7 +56,7 @@ export default {
 
   },
   mounted() {
-    this.timer = setInterval(this.log, 500)
+    this.timer = setInterval(this.log, 3000)
   },
   beforeUnmount() {
     clearInterval(this.timer)
